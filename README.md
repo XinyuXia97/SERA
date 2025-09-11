@@ -1,4 +1,4 @@
-<h3 align="center"><strong>From Failures to Fixes: LLM-Driven Scenario Repair for Self-Evolving Autonomous Driving</strong></h3>
+<h3 align="center"><strong>[ACM MM 2025]From Failures to Fixes: LLM-Driven Scenario Repair for Self-Evolving Autonomous Driving</strong></h3>
 
 <div align="center">
 <a href='https://arxiv.org/abs/2505.22067'><img src='https://img.shields.io/badge/arXiv-2505.22067-b31b1b.svg'></a> &nbsp;&nbsp;&nbsp;&nbsp;
